@@ -3,9 +3,12 @@ Esse projeto é uma dashboard climática a partir da API do openweather
 ***O que é necessário instalar*** 
 - Versão estável atualizada do Python a partir do 3
 - requirements.txt, comando: pip install -r requirements.txt
+
+- 
 *** O que é preciso ter?***
 - Uma key da API da OpenWeather(Gratuita)
 - VSCode
+
 ### Como Rodar
 No terminal, digite:
 python -m streamlit run app.py
